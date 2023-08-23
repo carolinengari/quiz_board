@@ -31,7 +31,7 @@ This document will detail setting java script exam
 
 ## Demo
 
-To access the site, click [here] (https://carolinengari.github.io/quiz_board/)
+
 
 
 #### **Project setup & collaboration**

@@ -46,6 +46,8 @@ Collaborate on this project by forking this repository to your github, clone it 
 * HTML - for page structure.
 
 * CSS - which was used to style the pages - material design
+  
+* JAVASCRIPT - scripting language
 
 ## Reference
 https://www.youtube.com/watch?v=D-h8L5hgW-w

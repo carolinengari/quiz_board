@@ -39,7 +39,7 @@ To access the site, click [here] (https://carolinengari.github.io/quiz_board/)
 To get a local copy up of this project, Clone the repo: <br>
 From the parent folder, **quiz_board**, you can open *index.html* on your browser <br>
 Collaborate on this project by forking this repository to your github, clone it and create a new branch to make changes on, then push the changes to your remote repository <br>
->[git clone] (https://github.com/carolinengari/portfolio.git)
+>[git clone] (https://github.com/carolinengari/quiz_board.git)
 
 
 ## Technology Used
